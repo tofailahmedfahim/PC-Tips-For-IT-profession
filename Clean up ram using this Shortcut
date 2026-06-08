@@ -1,1 +1,4 @@
-
+Right click and open up menu 
+new shortcut
+paste this command: "%windir%\system32\rundll32.exe advapi32.dll,ProcessIdleTasks " and give it a name 
+your are done
