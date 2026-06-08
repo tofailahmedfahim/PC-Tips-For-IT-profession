@@ -1,1 +1,7 @@
-
+open cmd and type "gpedit.msc"
+select Computer COnfuguration
+goto to Administrator Templates
+Select "Networks"
+Select "Qos Packet Scheduler"
+Select the option named "Limit Reservable Bandwidth."
+Enable it and set the limit to 0 %
