@@ -1,5 +1,5 @@
 open cmd and type "gpedit.msc"
-select Computer COnfuguration
+select Computer Configuration
 goto to Administrator Templates
 Select "Networks"
 Select "Qos Packet Scheduler"
